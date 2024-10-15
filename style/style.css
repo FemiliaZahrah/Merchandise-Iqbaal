@@ -1,0 +1,21 @@
+table {
+    border-collapse:collapse;
+    font-size: 30px;
+}
+
+th, td {
+    border: 2px solid black(229, 49, 74);
+    text-align: center;
+}
+
+th {
+    background-color: antiquewhite;
+}
+
+form input {
+    background-color: antiquewhite;
+}
+
+.tabel {
+    display: flex;
+}
